@@ -1,3 +1,4 @@
+
 gem install compass
 gem install activesupport
 gem install haml
@@ -7,3 +8,4 @@ gem bundle
 compass watch
 
 http://webtech.union.rpi.edu/blog/2010/02/21/jquery-and-rails-3/
+https://github.com/lleger/Rails-3-jQuery/blob/master/jquery.rb

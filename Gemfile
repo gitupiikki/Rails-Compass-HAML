@@ -3,6 +3,9 @@ source 'http://rubygems.org'
 gem 'haml'
 gem 'rails', '3.0.5'
 gem 'compass'
+gem "haml-rails"
+gem 'jquery-rails', '>= 0.2.6'
+
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
