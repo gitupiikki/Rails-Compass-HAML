@@ -1,11 +1,8 @@
+Dream starter kit for Ruby on Rails 3
 
-gem install compass
-gem install activesupport
-gem install haml
-gem install haml-rails
-gem bundle
+Bundled with:
 
-compass watch
-
-http://webtech.union.rpi.edu/blog/2010/02/21/jquery-and-rails-3/
-https://github.com/lleger/Rails-3-jQuery/blob/master/jquery.rb
+* Ruby on Rails 3.0.5
+* Compass /w BlueprintCSS
+* Jquery-Ujs
+* HAML
