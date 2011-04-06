@@ -1,4 +1,9 @@
+gem install compass
 gem install activesupport
 gem install haml
 gem install haml-rails
 gem bundle
+
+compass watch
+
+http://webtech.union.rpi.edu/blog/2010/02/21/jquery-and-rails-3/
