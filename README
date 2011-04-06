@@ -1,0 +1,4 @@
+gem install activesupport
+gem install haml
+gem install haml-rails
+gem bundle
